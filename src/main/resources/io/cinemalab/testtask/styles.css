@@ -1,0 +1,6 @@
+.tree-table-row-cell:selected {
+    -fx-background-color: orange;
+    -fx-font-size: 16px;
+    -fx-font-weight: 700;
+    -fx-text-fill: white;
+}
